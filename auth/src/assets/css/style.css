@@ -1,0 +1,17 @@
+.sidelink {
+
+    text-align: end;
+    font-size: 13px;
+    font-weight: 600;
+
+}
+
+
+.rightsidelink p{
+    font-size: 12px;
+    font-weight: 600;
+   
+}
+.rightsidelink a{
+    text-decoration: none;
+}

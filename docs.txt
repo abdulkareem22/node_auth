@@ -1,0 +1,43 @@
+kareem.edu44@gmail.com
+Laraveldeveloper2@
+kareemcluster
+kareemedu44
+dKUA9zOHseOyFkpN
+
+testuser@example.com
+new_test_password
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjkwNmY3YzI5MmZlOGNhZWNhNGM1OTAiLCJpYXQiOjE3MjA3NDE3ODksImV4cCI6MTcyMDc0NTM4OX0.vIKGrP5hek5KDQQFf4AfENiB-Re-cMqJgAjVW1LA-wM"
+
+http://localhost:3000/api/auth/signup
+http://localhost:3000/api/auth/login
+http://localhost:3000/api/auth/forgot-password
+http://localhost:3000/api/auth/reset-password/:token
+
+{
+  "username": "testuser",
+  "email": "testuser@example.com",
+  "password": "testpassword"
+ "newPassword": "new_test_password"
+}
+
+{
+  "username": "testuser",
+  "email": "testuser@example.com",
+  "password": "testpassword",
+}
+
+{
+"email": "testuser@example.com",
+"newPassword": "87654321"
+}
+
+	
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Njk1NDcwNDI4YzZlOWY5MWFiZjA0OGIiLCJpYXQiOjE3MjEwNTkyMDIsImV4cCI6MTcyMTA2MjgwMn0.KdXWKra4Kxj06JAiF3jJCuNY3sOCq0SrgTp4vY-gX0Y
+
+
+http://localhost:3000/api/auth/reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Njk1NDcwNDI4YzZlOWY5MWFiZjA0OGIiLCJpYXQiOjE3MjEwNTkzNTQsImV4cCI6MTcyMTA2Mjk1NH0.ThxD0baqSqkGsvi8-sta89T9shpZ0kVS5vFpRD0zcq0
+
+
+
+high-quality content
+top-notch
